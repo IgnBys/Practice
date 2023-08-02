@@ -9,6 +9,7 @@ with open("file.txt", "r" ,encoding='utf-8-sig') as file:
     for char in file:
         split_space = char.split(' ', 3)
 
+
         for element in split_space:
             if element != split_space[len(split_space) - 1]:
                 element = element.replace(':', '').replace(',', '')
