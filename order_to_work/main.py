@@ -4,7 +4,7 @@ import xlsxwriter as xlsxwriter
 date, type, order, adress, needed_array = [], [], [], [], []
 q = 0
 
-with open("file.txt", "r" ,encoding='utf-8-sig') as file:
+with open("file.txt", "r" , encoding='utf-8-sig') as file:
     char = file.read(1)
     for char in file:
         split_space = char.split(' ', 3)
