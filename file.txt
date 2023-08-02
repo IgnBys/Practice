@@ -1,0 +1,80 @@
+02.07: O, 33753706, zbąszyń, powstańców wielkopolskich 44
+02.07: O, 38840317, mosina, piaskowa 6
+02.07: O, 34542534, luboń, kopernika 4
+02.07: P, 34368146, plewiska, cicha 15
+08.07: O, 34368146, plewiska, cicha 15
+08.07: P, 38529469, jelcz laskowice, bożka józefa 29
+08.07: O, 39864533, luboń, żablikowska 62b
+08.07: O, 37634733, poznań, Adama Kręglewskiego 2
+09.07: O, 36737370, komorniki, młyńska 80/2
+09.07: O, 31468964, gniezno
+09.07: P, 33381661, kostrzyn wielkopolski, fiołkowo 7
+09.07: P, 33318273, poznań, serbska 7
+10.07: P, 32717580, skórzewo, grafitowe 48
+10.07: O, 39309881, rabowice, głogowa 1
+10.07: O, 39153067, pobiedziska, długa 2a
+12.07: P, 34124653, gniezno, kawiary 25d
+12.07: O, 38827960, poznań, biskupińska 19
+12.07: P, 35837965, walerianowo, bukowa 65c
+12.07: P, 32530076, oblaczkowo 118
+13.07: O, 37854850, wrocław, brucknera 38
+13.07: P, 33610343, poznań, krańcowa 40
+13.07: O, 36874539, poznan, aleje solidarności 51
+13.07: P, 38429906, poznań, serbska 4
+13.07: O, 33643920, poznan, bukowska 440
+13.07: O, 38643029, poznań, kręglewskiego 2
+14.07: O, 34365736, poznań, obornicka 246
+14.07: O, 30840511, poznan, kresowa 26
+14.07: O, 32273386, kalisz, częstochowska
+14.07: O, 33318273, poznań, serbska 7
+15.07: O, 32530076, oblaczkowo 118
+15.07: O, 39141752, luboń, dojazdowa 10
+17.07: O, 34124653, gniezno, kawiary 25d
+17.07: P, 31943193, poznań, bobrzańska 5
+17.07: P, 35827177, poznań, starołęcka 35b
+17.07: P, 31119711, swarzędz, kościuszki 25
+17.07: O, 35837965, poznań, forteczna 21
+17.07: P, 30136974, plewiska, szkolna 30
+17.07: P, 32528177, paproć 76f
+17.07: O, 33250044, poznań, kunickiego 27
+18.07: P, 36609121, kijewo 5
+18.07: P, 32430168, poznań, żółnierzy wyklętych 26 
+20.07: P, 30245870, wrocław, bolesława krzywoustego 276
+20.07: O, 31119711, swarzędz, kościuszki 25
+20.07: P, 33200254, suchy las, zakątek 2d
+21.07: P, 37102400, łężeczki, osiedle leśne 24
+21.07: O, 32430168, poznań, żółnierzy wyklętych 26 
+21.07: P, 39694954, poznań, jesienna 28
+21.07: P, 34644459, poznań, obornicka 346a
+21.07: O, 35456380, poznań, szkolna 15
+21.07: O, 32885525, gowarzewo, szafranowa 29
+21.07: P, 32484982, komorniki, wąska 18
+22.07: O, 35684513, poznań, hetmańska 82
+22.07: P, 35223568, poznań, żurawinowa 9b
+22.07: O, 30963588, poznań, teofila mateckiego 21
+22.07: O, 30325907, suchy las, obornicka 4
+24.07: P, 32734083, cicha góra 84
+24.07: P, 34985479, puszczykowo, leśna 5
+24.07: O, 32528177, paproć 76f
+24.07: P, 38036349, oborniki, jaworowa 2
+24.07: O, 33565270, komorniki, platynowa 105
+24.07: P, 35356496, książ wielkopolski, nowomiejska 8
+27.07: O, 39995521, poznań, biecka 4
+27.07: O, 39892906, baranowo, rolna 29a
+27.07: O, 32775445, suchy las, klonowa 24
+27.07: P, 39341663, poznań, szwajcarska
+28.07: P, 31752478, luboń, wschodnia 24g
+28.07: O, 39110450, wrocław, mińska
+28.07: O, 37375219, poznań, polanka 37
+28.07: O, 33610343, poznań, krańcowa 40
+28.07: O, 32230306, poznań, kręglewskiego
+28.07: O, 34800527, plewiska, grunwaldzka
+28.07: O, 35233088, szamotuły, długa 128
+29.07: O, 38446922, kalisz
+30.07: O, 31600411, poznań, stefanii wołynki
+31.07: P, 32764934, poznań, warszawska 87
+31.07: P, 34410866, środa wielkopolska, maksymiliana jackowskiego 16
+31.07: O, 37273631, poznań, łyaogórska 4
+01.08: P, 32757907, mrowino, laskowa 15a
+01.08: O, 32467537, tulce, południowa 18
+01.08: P, 39617331, nowy folwark, cicha 1
